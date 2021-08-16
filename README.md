@@ -6,10 +6,11 @@ it is 16/8/2021
 
 ### Project Title
 Replace the Project Title
-named after the project "pdsnd_github"
+"pdsnd_github"
 
 ### Description
 Describe what your project is about and what it does
+practicing the commands taught in the course
 
 ### Files used
 Include the files used
